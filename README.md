@@ -40,35 +40,4 @@ public class Calculator {
   // hello
 }
 ```
-
-
-
-
-
-
-
-
-
-df
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## For Pull Request
